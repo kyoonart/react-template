@@ -94,6 +94,7 @@ degit uchihamalolan/vite-react-ts your-app-name
 - SWR
 - RTKQuery
 
-<!-- ### Eslint Plugins
+
+### Eslint Plugins
 - [eslint-plugin-jest-dom](https://testing-library.com/docs/ecosystem-eslint-plugin-jest-dom)
-- [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin) -->
+- [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin)
